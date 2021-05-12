@@ -1,4 +1,7 @@
-## Did you know GitHub allows creating a profile README? I didn't.. :O
+## My activities
 
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme  
-TL;DR: Just create a repo with a name that matches your username containing a README.md
+* one of the [media.ccc.de](https://media.ccc.de/) admins
+* part of the [FrOSCon](https://froscon.org/) organizing team
+* [CCC](https://www.ccc.de/en/) and [CCC Cologne](https://koeln.ccc.de/)
+* some activities in the [C3VOC](https://c3voc.de/)
+* Computer Science college major
